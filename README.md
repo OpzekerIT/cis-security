@@ -1,6 +1,6 @@
 # cis_security
 
-A role to implement Center for Internet Security (CIS) controls for RHEL (7-9) and RHEL clones (Oracle, CentOS), recent Fedora (31-32), SLES 15, and Ubuntu \[18-22\].04 LTS and certain Windows servers.
+A role to implement Center for Internet Security (CIS) controls for RHEL (7-9) and RHEL clones (Oracle, CentOS), recent Fedora (31-32), SLES 15, and Ubuntu \[18-22\].04 LTS and certain Windows servers..
 
 ## Introduction
 
